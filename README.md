@@ -22,4 +22,5 @@ A simple Python script to batch resize and convert images using the **Pillow** l
 - Pillow library
 
 **Author Name:** Vempalli Rizwana 
+
 **Email ID:** rrizzu139@gmail.com
