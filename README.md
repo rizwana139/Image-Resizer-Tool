@@ -1,4 +1,4 @@
-# Image Resizer Tool
+# Image Resizer Tool ElevateLabs-Task 7
 
 A simple Python script to batch resize and convert images using the **Pillow** library.
 
